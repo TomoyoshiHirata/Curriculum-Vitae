@@ -4,10 +4,9 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
+|Name|平田 朋義(ひらた ともよし))|
 |Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
+|Twitter|[@tomo3141592653](https://twitter.com/foobar)|
 |SlideShare|[foobar](http://www.slideshare.net/foobar)|
 |Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
 
@@ -16,11 +15,26 @@
 ### 言語
 
 - プログラミング言語
-
+  -日常的に使う言語
+    -python
+    -R
+  -業務で使用したことのありある程度習熟している言語
+    -ruby
+    -C++
+    -C++
+  -業務で使用したことのある言語
+    -javascript
+    -perl
+  -その他学習したことのある言語
+    -PHP
+    -java
+    -C
+    -FORTRAN
+    
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- 英語
+  - 英語論文を読み書きできる。英語圏の友人と会話ができる。
 
 ### フレームワーク
 
