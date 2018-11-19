@@ -9,6 +9,8 @@
 |HP|[ひらたともよし！](https://sites.google.com/site/hiratatomogi/)|
 |Twitter|[@tomo3141592653](https://twitter.com/foobar)|
 |SlideShare|[tomo3141592653](https://www.slideshare.net/tomo3141592653/)|
+|mail|tomo3141592653@gmail.com|
+
 
 
 ## スキル
