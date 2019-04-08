@@ -141,7 +141,7 @@
 - 日本不動産価格予想
   - 2017年6月から2018年10月
   - 機械学習の手法を用いて、土地、マンション、戸建てなどについて、日本の不動産の価格推定モデルを作成した。
-  - 使用技術:R python xgboost pandas bigquery randomforest Lasso回帰
+  - 使用技術:R python xgboost pandas bigquery randomforest Lasso回帰 Isolation Forest
 
 
 
