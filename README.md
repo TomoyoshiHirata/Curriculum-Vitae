@@ -131,7 +131,7 @@
   - アメリカの不動産の価格を推定するモデルを作成した。
   - 使用技術:R xgboost dplyr 地理的加重回帰 主成分分析 word2vec k-means
 
-### 2016/07 - : [株式会社ゴーガ解析コンサルティング](https://www.goga-analysis.co.jp/)(分社化につき移転)
+### 2016/07 - 2019/03: [株式会社ゴーガ解析コンサルティング](https://www.goga-analysis.co.jp/)(分社化につき移転)
 職務:データ分析 機械学習エンジニア
 データを分析し、機械学習モデルを作成する業務を行っている。
 
@@ -143,12 +143,12 @@
   - 機械学習の手法を用いて、土地、マンション、戸建てなどについて、日本の不動産の価格推定モデルを作成した。
   - 使用技術:R python xgboost pandas bigquery randomforest Lasso回帰 Isolation Forest
 
-### 2010/04 - 2016/06: [Arithmer株式会社](https://arithmer.co.jp/)
+### 2019/03 - : [Arithmer株式会社](https://arithmer.co.jp/)
 
 - 画像文字認識
   - 2019年3月から
-  - Deep Learning、画像処理、自然言語処理の手法を用いて、OCRのエンジンを開発。
-  - 使用技術:python keras chainer openCV 文章補正
+  - Deep Learning、画像処理、自然言語処理の手法を用いて、文字認識のエンジンを開発。
+  - 使用技術:python tensorflow keras pytorch openCV 文章補正
 
 
 
